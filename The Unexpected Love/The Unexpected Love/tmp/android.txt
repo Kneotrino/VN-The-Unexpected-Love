@@ -1,0 +1,57 @@
+
+I'm compiling a short test program, to see if you have a working JDK on your
+system.
+
+
+
+
+
+The JDK is present and working. Good!
+
+Apache ANT has already been unpacked.
+
+The Android SDK has already been unpacked.
+
+I'm about to download and install the required Android packages. This might take a while.
+Refresh Sources:
+  Fetching https://dl-ssl.google.com/android/repository/addons_list-2.xml
+  Validate XML
+  Parse XML
+  Fetched Add-ons List successfully
+  Refresh Sources
+  Fetching URL: https://dl-ssl.google.com/android/repository/repository-10.xml
+  Validate XML: https://dl-ssl.google.com/android/repository/repository-10.xml
+  Parse XML:    https://dl-ssl.google.com/android/repository/repository-10.xml
+  Fetching URL: https://dl-ssl.google.com/android/repository/addon.xml
+  Validate XML: https://dl-ssl.google.com/android/repository/addon.xml
+  Parse XML:    https://dl-ssl.google.com/android/repository/addon.xml
+  Fetching URL: https://dl-ssl.google.com/android/repository/glass/addon.xml
+  Validate XML: https://dl-ssl.google.com/android/repository/glass/addon.xml
+  Parse XML:    https://dl-ssl.google.com/android/repository/glass/addon.xml
+  Fetching URL: https://dl-ssl.google.com/android/repository/extras/intel/addon.xml
+  Validate XML: https://dl-ssl.google.com/android/repository/extras/intel/addon.xml
+  Parse XML:    https://dl-ssl.google.com/android/repository/extras/intel/addon.xml
+  Fetching URL: https://dl-ssl.google.com/android/repository/sys-img/android/sys-img.xml
+  Validate XML: https://dl-ssl.google.com/android/repository/sys-img/android/sys-img.xml
+  Parse XML:    https://dl-ssl.google.com/android/repository/sys-img/android/sys-img.xml
+  Fetching URL: https://dl-ssl.google.com/android/repository/sys-img/android-wear/sys-img.xml
+  Validate XML: https://dl-ssl.google.com/android/repository/sys-img/android-wear/sys-img.xml
+  Parse XML:    https://dl-ssl.google.com/android/repository/sys-img/android-wear/sys-img.xml
+  Fetching URL: https://dl-ssl.google.com/android/repository/sys-img/android-tv/sys-img.xml
+  Validate XML: https://dl-ssl.google.com/android/repository/sys-img/android-tv/sys-img.xml
+  Parse XML:    https://dl-ssl.google.com/android/repository/sys-img/android-tv/sys-img.xml
+  Fetching URL: https://dl-ssl.google.com/android/repository/sys-img/google_apis/sys-img.xml
+  Validate XML: https://dl-ssl.google.com/android/repository/sys-img/google_apis/sys-img.xml
+  Parse XML:    https://dl-ssl.google.com/android/repository/sys-img/google_apis/sys-img.xml
+  Fetching URL: https://dl-ssl.google.com/android/repository/sys-img/google_apis_playstore/sys-img.xml
+  Validate XML: https://dl-ssl.google.com/android/repository/sys-img/google_apis_playstore/sys-img.xml
+  Parse XML:    https://dl-ssl.google.com/android/repository/sys-img/google_apis_playstore/sys-img.xml
+Error: Ignoring unknown package filter 'extra-google-play_licensing'
+Error: Ignoring unknown package filter 'extra-google-play_apk_expansion'
+Warning: The package filter removed all packages. There is nothing to install.
+         Please consider trying to update again without a package filter.
+
+
+
+
+I'm updating the library packages.
