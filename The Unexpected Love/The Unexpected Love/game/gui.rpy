@@ -56,7 +56,7 @@ define gui.hover_muted_color = '#ea99c1'
 ## {Warna text Dialogue dasar}
 define gui.text_color = '#000000'
 ## {Warna pilihan ganda Dialogue dasar[Tidak di gunakan]}
-define gui.interface_text_color = '#404040'
+define gui.interface_text_color = '#887799'
 
 
 ## Fonts and Font Sizes ########################################################
@@ -431,9 +431,9 @@ init python:
     if renpy.variant("small"):
 
         ## Font sizes.
-        gui.text_size = 30
-        gui.name_text_size = 36
-        gui.notify_text_size = 25
+        gui.text_size = 25
+        gui.name_text_size = 30
+        gui.notify_text_size = 20
         gui.interface_text_size = 30
         gui.button_text_size = 30
         gui.label_text_size = 34
@@ -462,7 +462,8 @@ init python:
         gui.file_slot_rows = 2
 
         ## NVL-mode.
-        gui.nvl_height = 170
+        gui.nvl_height = None
+        gui.nvl_spacing = None
 
         gui.nvl_name_width = 305
         gui.nvl_name_xpos = 325

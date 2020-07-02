@@ -88,6 +88,6 @@ label prolog:
 
     letter "Akhir dari bagian prolog"
     letter "\n\nPS : Cerita ini hanya fiktif belaka." 
-    letter "Jika ada kesamaan nama tokoh, tempat kejadian ataupun cerita,itu adalah kebetulan semata dan tidak ada unsur kesengajaan."
+    letter "Jika ada kesamaan nama tokoh, tempat kejadian ataupun cerita,{p}itu adalah kebetulan semata dan tidak ada unsur kesengajaan."
 
     return
