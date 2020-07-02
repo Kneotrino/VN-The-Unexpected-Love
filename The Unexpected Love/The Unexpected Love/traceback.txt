@@ -1,21 +1,25 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
-While running game code:
-Exception: Backslash in filename, use '/' instead: u'res\x0cont\\Just_One.ttf'
+While processing text tag {P} in u'Aku akan terus menunggumu. {p}Aku hanya ingin bertemu denganmu. {P}Aku sangat mengharapkan hal itu.'.:
+  File "game/story/prolog.rpy", line 17, in script
+    "Aku akan terus menunggumu.
+Exception: Unknown text tag u'P'
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "renpy/common/_layout/screen_main_menu.rpym", line 28, in script
-    python hide:
-  File "C:\GameMaker\renpy-7.3.5-sdk\renpy\ast.py", line 914, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-  File "C:\GameMaker\renpy-7.3.5-sdk\renpy\python.py", line 2028, in py_exec_bytecode
-    exec bytecode in globals, locals
-  File "renpy/common/_layout/screen_main_menu.rpym", line 28, in <module>
-    python hide:
-  File "renpy/common/_layout/screen_main_menu.rpym", line 35, in _execute_python_hide
-    ui.interact()
+  File "game/story/prolog.rpy", line 17, in script
+    "Aku akan terus menunggumu.
+  File "C:\GameMaker\renpy-7.3.5-sdk\renpy\ast.py", line 708, in execute
+    renpy.exports.say(who, what, *args, **kwargs)
+  File "C:\GameMaker\renpy-7.3.5-sdk\renpy\exports.py", line 1345, in say
+    who(what, *args, **kwargs)
+  File "C:\GameMaker\renpy-7.3.5-sdk\renpy\character.py", line 1142, in __call__
+    self.do_display(who, what, cb_args=self.cb_args, **display_args)
+  File "C:\GameMaker\renpy-7.3.5-sdk\renpy\character.py", line 842, in do_display
+    **display_args)
+  File "C:\GameMaker\renpy-7.3.5-sdk\renpy\character.py", line 591, in display_say
+    rv = renpy.ui.interact(mouse='say', type=type, roll_forward=roll_forward)
   File "C:\GameMaker\renpy-7.3.5-sdk\renpy\ui.py", line 297, in interact
     rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
   File "C:\GameMaker\renpy-7.3.5-sdk\renpy\display\core.py", line 2702, in interact
@@ -58,24 +62,6 @@ Full traceback:
     cpdef render(d, object widtho, object heighto, double st, double at):
   File "renpy/display/render.pyx", line 259, in renpy.display.render.render (gen\renpy.display.render.c:3520)
     rv = d.render(widtho, heighto, st, at)
-  File "C:\GameMaker\renpy-7.3.5-sdk\renpy\display\layout.py", line 925, in render
-    surf = render(d, width - x, rh, cst, cat)
-  File "renpy/display/render.pyx", line 166, in renpy.display.render.render (gen\renpy.display.render.c:4075)
-    cpdef render(d, object widtho, object heighto, double st, double at):
-  File "renpy/display/render.pyx", line 259, in renpy.display.render.render (gen\renpy.display.render.c:3520)
-    rv = d.render(widtho, heighto, st, at)
-  File "C:\GameMaker\renpy-7.3.5-sdk\renpy\display\behavior.py", line 774, in render
-    rv = super(Button, self).render(width, height, st, at)
-  File "C:\GameMaker\renpy-7.3.5-sdk\renpy\display\layout.py", line 1097, in render
-    xminimum = max(xminimum, size_groups[size_group].width(width, height, st, at))
-  File "C:\GameMaker\renpy-7.3.5-sdk\renpy\display\layout.py", line 1041, in width
-    rend = renpy.display.render.render_for_size(i, width, height, st, at)
-  File "renpy/display/render.pyx", line 310, in renpy.display.render.render_for_size (gen\renpy.display.render.c:4391)
-    return render(d, width, height, st, at)
-  File "renpy/display/render.pyx", line 259, in renpy.display.render.render (gen\renpy.display.render.c:3520)
-    rv = d.render(widtho, heighto, st, at)
-  File "C:\GameMaker\renpy-7.3.5-sdk\renpy\display\behavior.py", line 774, in render
-    rv = super(Button, self).render(width, height, st, at)
   File "C:\GameMaker\renpy-7.3.5-sdk\renpy\display\layout.py", line 1127, in render
     st, at)
   File "renpy/display/render.pyx", line 166, in renpy.display.render.render (gen\renpy.display.render.c:4075)
@@ -84,19 +70,13 @@ Full traceback:
     rv = d.render(widtho, heighto, st, at)
   File "C:\GameMaker\renpy-7.3.5-sdk\renpy\text\text.py", line 1996, in render
     virtual_layout = Layout(self, width, height, renders, drawable_res=False, size_only=True)
-  File "C:\GameMaker\renpy-7.3.5-sdk\renpy\text\text.py", line 626, in __init__
-    glyphs = ts.glyphs(s, self)
-  File "C:\GameMaker\renpy-7.3.5-sdk\renpy\text\text.py", line 242, in glyphs
-    fo = font.get_font(self.font, self.size, self.bold, self.italic, 0, self.antialias, self.vertical, self.hinting, layout.oversample)
-  File "C:\GameMaker\renpy-7.3.5-sdk\renpy\text\font.py", line 699, in get_font
-    face = load_face(fn)
-  File "C:\GameMaker\renpy-7.3.5-sdk\renpy\text\font.py", line 615, in load_face
-    font_file = renpy.loader.load(fn)
-  File "C:\GameMaker\renpy-7.3.5-sdk\renpy\loader.py", line 567, in load
-    raise Exception("Backslash in filename, use '/' instead: %r" % name)
-Exception: Backslash in filename, use '/' instead: u'res\x0cont\\Just_One.ttf'
+  File "C:\GameMaker\renpy-7.3.5-sdk\renpy\text\text.py", line 597, in __init__
+    self.paragraphs = self.segment(text.tokens, style, renders, text)
+  File "C:\GameMaker\renpy-7.3.5-sdk\renpy\text\text.py", line 1179, in segment
+    raise Exception("Unknown text tag %r" % text)
+Exception: Unknown text tag u'P'
 
 Windows-8-6.2.9200
 Ren'Py 7.3.5.606
 The Unexpected Love 1.0
-Wed Jun 24 23:38:50 2020
+Thu Jul 02 22:47:59 2020

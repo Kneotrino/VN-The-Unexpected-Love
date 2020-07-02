@@ -10,7 +10,9 @@ init offset = -2
 ## width and height of the game.
 init python:
     gui.init(1280, 720)
-
+    config.empty_window = nvl_show_core
+    # config.window_hide_transition = dissolve
+    config.window_show_transition = dissolve    
 
 
 ################################################################################
@@ -373,11 +375,11 @@ define gui.nvl_list_length = 6
 
 ## The height of an NVL-mode entry. Set this to None to have the entries
 ## dynamically adjust height.
-define gui.nvl_height = 115
+define gui.nvl_height = None
 
 ## The spacing between NVL-mode entries when gui.nvl_height is None, and between
 ## NVL-mode entries and an NVL-mode menu.
-define gui.nvl_spacing = 10
+define gui.nvl_spacing = None
 
 ## The position, width, and alignment of the label giving the name of the
 ## speaking character.
@@ -469,10 +471,10 @@ init python:
         gui.nvl_text_xpos = 345
         gui.nvl_text_ypos = 5
 
-        gui.nvl_thought_width = 1240
+        gui.nvl_thought_width = 900
         gui.nvl_thought_xpos = 20
 
-        gui.nvl_button_width = 1240
+        gui.nvl_button_width = 900
         gui.nvl_button_xpos = 20
 
 

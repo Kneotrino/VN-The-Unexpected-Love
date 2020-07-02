@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/story/prolog.rpy", line 9: expected 'simple_expression' not found.
+    ypos=0.5
+        ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Fri Jul 03 00:36:31 2020
