@@ -90,4 +90,4 @@ label prolog:
     letter "\n\nPS : Cerita ini hanya fiktif belaka." 
     letter "Jika ada kesamaan nama tokoh, tempat kejadian ataupun cerita,{p}itu adalah kebetulan semata dan tidak ada unsur kesengajaan."
 
-    return
+    jump chapter1

@@ -55,8 +55,7 @@ define gui.hover_muted_color = '#ea99c1'
 
 ## {Warna text Dialogue dasar}
 define gui.text_color = '#000000'
-## {Warna pilihan ganda Dialogue dasar[Tidak di gunakan]}
-define gui.interface_text_color = '#887799'
+define gui.interface_text_color = '#ffddcc'
 
 
 ## Fonts and Font Sizes ########################################################
