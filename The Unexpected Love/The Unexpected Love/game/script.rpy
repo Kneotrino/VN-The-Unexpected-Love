@@ -47,7 +47,6 @@ init python:
 
     # Tutorial("Label", _("Chapter Name"))
     Section(_("Chapters 1-10"))
-    Tutorial("prolog", _("Prolog"))
     Tutorial("chapter1", _("Chapter 1"))
     Tutorial("chapter2", _("Chapter 2"))
     Tutorial("chapter3", _("Chapter 3"))
@@ -60,7 +59,6 @@ init python:
     # Tutorial("chapter10", _("Chapter 10"))
 
     # Section(_("Chapters 11-20"))
-    # Tutorial("prolog", _("Prolog"))
     # Tutorial("chapter11", _("Chapter 11"))
     # Tutorial("chapter12", _("Chapter 12"))
     # Tutorial("chapter13", _("Chapter 13"))

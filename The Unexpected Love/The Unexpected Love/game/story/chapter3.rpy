@@ -4,4 +4,5 @@ label chapter3:
 
     "chapter 3"
 
-    jump chapter4
+    # jump chapter4
+    return

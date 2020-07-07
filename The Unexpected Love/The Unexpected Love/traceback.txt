@@ -1,7 +1,7 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/script.rpy", line 149, in script call
+  File "game/script.rpy", line 167, in script call
     call expression tutorial.label from _call_expression
   File "game/story/chapter3.rpy", line 7, in script
     jump chapter4
@@ -10,7 +10,7 @@ ScriptError: could not find label 'chapter4'.
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/script.rpy", line 149, in script call
+  File "game/script.rpy", line 167, in script call
     call expression tutorial.label from _call_expression
   File "game/story/chapter3.rpy", line 7, in script
     jump chapter4
@@ -23,4 +23,4 @@ ScriptError: could not find label 'chapter4'.
 Windows-8-6.2.9200
 Ren'Py 7.3.5.606
 The Unexpected Love 1.0
-Tue Jul 07 23:20:19 2020
+Tue Jul 07 23:50:28 2020
