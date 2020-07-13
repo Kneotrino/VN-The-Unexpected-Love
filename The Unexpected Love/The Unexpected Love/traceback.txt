@@ -1,26 +1,26 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/script.rpy", line 167, in script call
+  File "game/script.rpy", line 187, in script call
     call expression tutorial.label from _call_expression
-  File "game/story/chapter3.rpy", line 7, in script
-    jump chapter4
-ScriptError: could not find label 'chapter4'.
+  File "game/story/chapter1.rpy", line 313, in script
+    "Ia terlihat memegang beberapa buku di tangannya, yang sesaat kemudian sudah berada di atas meja"
+Exception: Sayer 'Letter' is not defined.
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/script.rpy", line 167, in script call
+  File "game/script.rpy", line 187, in script call
     call expression tutorial.label from _call_expression
-  File "game/story/chapter3.rpy", line 7, in script
-    jump chapter4
-  File "C:\GameMaker\renpy-7.3.5-sdk\renpy\ast.py", line 1697, in execute
-    rv = renpy.game.script.lookup(target)
-  File "C:\GameMaker\renpy-7.3.5-sdk\renpy\script.py", line 898, in lookup
-    raise ScriptError("could not find label '%s'." % str(original))
-ScriptError: could not find label 'chapter4'.
+  File "game/story/chapter1.rpy", line 313, in script
+    "Ia terlihat memegang beberapa buku di tangannya, yang sesaat kemudian sudah berada di atas meja"
+  File "C:\GameMaker\renpy-7.3.5-sdk\renpy\ast.py", line 678, in execute
+    who = eval_who(self.who, self.who_fast)
+  File "C:\GameMaker\renpy-7.3.5-sdk\renpy\ast.py", line 576, in eval_who
+    raise Exception("Sayer '%s' is not defined." % who.encode("utf-8"))
+Exception: Sayer 'Letter' is not defined.
 
 Windows-8-6.2.9200
 Ren'Py 7.3.5.606
 The Unexpected Love 1.0
-Tue Jul 07 23:50:28 2020
+Mon Jul 13 18:32:29 2020

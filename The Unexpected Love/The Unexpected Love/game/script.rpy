@@ -1,7 +1,8 @@
 ﻿# The script of the game goes in this file.
 
-# TODO
-# add bgm
+# TODO add the missing items
+    # add bgm
+    # add charater
 
 # Declare the characters.
 
@@ -131,12 +132,31 @@ init:
     image black = Solid((0, 0, 0, 255))
     image white = Solid((0, 0, 0, 255))
 
+    # Location Kupang    
+    image bg kupang_high_view = "res/bg/kupang_high_view.jpg"
+    image bg kupang_street_view = "res/bg/kupang_street_view.jpg"
+
+    # Building
+    image bg cafe_evening = "res/bg/cafe_evening.jpg"
+
+    # Landscape
+
+
     # Image Location
     # $ screen_center = Position(xpos=0.5, ypos=0.5)
 
     # Charater
     $ letter = Character(None, kind=nvl)
+
     $ Paulin = Character("Paulin")
+    $ Pikir_Paulin = Character("Batin Paulin")
+
+    $ Roy = Character("Roy Divano")
+
+    # Charater Support
+    $ Paa = Character("Pa\'a")
+    $ Azka = Character("Azka")
+    $ Pewagawai_Wanita = Character("Pegawai Wanita")
 
 # The game starts here.
 

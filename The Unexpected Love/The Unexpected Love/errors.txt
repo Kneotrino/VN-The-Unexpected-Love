@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 104: u'size' is not a keyword argument or valid child for the for statement.
-    size 50
-        ^
+File "game/story/chapter1.rpy", line 299: expected statement.
+    "Bagaimana tidak? Dalam bayangannya, Pak Divano adalah bapak-bapak seusia Pak Pa'a", 
+                                                                                       ^
 
 Ren'Py Version: Ren'Py 7.3.5.606
-Tue Jul 07 23:47:41 2020
+Mon Jul 13 18:20:30 2020

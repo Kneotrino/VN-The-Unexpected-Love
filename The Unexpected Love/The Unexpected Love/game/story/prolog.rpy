@@ -1,7 +1,6 @@
 
 label prolog:
 
-    image bg cafe_evening = "res/bg/cafe_evening.jpg"
     scene bg cafe_evening with fade
 
     image divano_letter = "res/img/divano_letter.png"
@@ -28,7 +27,8 @@ label prolog:
     {p}Aku sangat mengharapkan hal itu."
 
     letter "Roy Divano"
-
+    nvl clear
+    
     hide divano_letter with Dissolve(1, alpha=True)
     window hide dissolve
     
@@ -82,12 +82,11 @@ label prolog:
     
     "Biru muda adalah warna kesukaannya. Dan, si pengirim surat itu, tentu saja masih mengingatnya dengan jelas."
 
-
-    nvl clear
     scene black
 
     letter "Akhir dari bagian prolog"
     letter "\n\nPS : Cerita ini hanya fiktif belaka." 
     letter "Jika ada kesamaan nama tokoh, tempat kejadian ataupun cerita,{p}itu adalah kebetulan semata dan tidak ada unsur kesengajaan."
-
+    nvl clear
+    
     jump chapter1
