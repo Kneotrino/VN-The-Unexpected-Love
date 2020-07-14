@@ -156,7 +156,11 @@ init:
     # Charater Support
     $ Paa = Character("Pa\'a")
     $ Azka = Character("Azka")
+    $ Naim = Character("Naim")
+    $ Inge = Character("Inge")
+
     $ Pewagawai_Wanita = Character("Pegawai Wanita")
+    $ Pewagawai_Pria = Character("Pegawai Pria")
 
 # The game starts here.
 
