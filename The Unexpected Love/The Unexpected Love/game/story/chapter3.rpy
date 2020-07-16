@@ -182,11 +182,11 @@ label chapter3:
 
     Roy "Tidak usah dipikirin, itu hal biasa yang akan kamu hadapi nanti."
 
-    Paulin "Makasih, Pak. Tadi udah bantuin saya," 
-    
-    ujar Lia.
+    Paulin "Makasih, Pak. Tadi udah bantuin saya,"     
+    # ujar Lia.
 
-    Roy "Laen kali saya tidak bantuin lagi,"sambung Divano.
+    Roy "Laen kali saya tidak bantuin lagi,"    
+    # sambung Divano.
 
     Paulin "Siap, Pak!"
     

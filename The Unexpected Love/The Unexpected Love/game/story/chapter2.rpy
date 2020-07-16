@@ -279,7 +279,7 @@ label chapter2:
     
     Roy "Eh, sebentar! Saya mau briefing dulu. Kamu ikutan aja, biar saya perkenalkan sekalian," 
     
-    "ujar Pak Divano. Lia pun menuruti".
+    "ujar Pak Divano. Lia pun menuruti."
 
     "Mereka berdua pun segera menuju ke area back up yang memang cukup luas, untuk dijadikan tempat berkumpul. Pak Divano segera menyuruh Naim untuk memanggil Azka agar ikut serta briefing pagi."
 
