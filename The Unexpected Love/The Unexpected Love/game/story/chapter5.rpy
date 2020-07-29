@@ -1,120 +1,168 @@
-Terkadang aku pikir, untuk bahagia harus dengan banyak hal rumit. Nyatanya, ungkapan bahwa bahagia itu sederhana benar-benar ada, dan itu ajaib!
+label chapter5:
 
-Tidak terasa sudah 3 minggu Lia bekerja di restoran cepat saji ini. Ia sangat menikmati pekerjaannya. Dan kini, tiba saatnya Lia untuk memulai shift sore pertamanya bersama Divano.
+    letter "Terkadang aku pikir, untuk bahagia harus dengan banyak hal rumit. Nyatanya, ungkapan bahwa bahagia itu sederhana benar-benar ada, dan itu ajaib!"
 
-Waktu sudah menunjukkan pukul 16.00 dan Lia sudah berada di restoran. Ia sudah mulai memeriksa semua produk dan kebersihan restoran. Ia dan Divano juga segera melakukan serah terima uang pendapatan bersama duty shift pagi, Ibu Novy. Hari ini adalah jadwal off (libur) bagi Jhelly.
+    letter "Tidak terasa sudah 3 minggu Lia bekerja di restoran cepat saji ini. Ia sangat menikmati pekerjaannya. Dan kini, tiba saatnya Lia untuk memulai shift sore pertamanya bersama Divano."
 
-"Uangnya pas, Bu," sahut Lia.
+    nvl clear
 
-Sebenarnya, di restoran ini memiliki seorang chief cashier.  Tugasnya berhubungan dengan keuangan dan administrasi kantor. Namun, chief cashier restoran, Ismy, sedang mengambil cuti melahirkan selama kurang lebih 3 bulan. Oleh karena itu, segala macam urusan administrasi dilakukan oleh staf yang saat itu bertugas.
+    "Waktu sudah menunjukkan pukul 16.00 dan Lia sudah berada di restoran. Ia sudah mulai memeriksa semua produk dan kebersihan restoran. Ia dan Divano juga segera melakukan serah terima uang pendapatan bersama duty shift pagi, Ibu Novy. Hari ini adalah jadwal off (libur) bagi Jhelly."
 
-"Ya, udah, kalau gitu saya balik dulu, ya,"ucap Ibu Novy. "Oh, iya, tadi ada laporan yang harus dikirim. Udah saya kerjakan, cuma pas mau dikirim, jaringan internetnya bermasalah. Nanti kalian coba kirim lagi ya."
+    Paulin "Uangnya pas, Bu," 
+    # sahut Lia.
 
-Setelah itu, Ibu Novy segera meninggalkan restoran. Tanpa berlama-lama, Divano segera mengirimkan laporan yang dimaksud, dan berhasil. Lia sedang berdiri terpaku di depan pintu kantor.
+    "Sebenarnya, di restoran ini memiliki seorang chief cashier.  Tugasnya berhubungan dengan keuangan dan administrasi kantor. Namun, chief cashier restoran, Ismy, sedang mengambil cuti melahirkan selama kurang lebih 3 bulan. Oleh karena itu, segala macam urusan administrasi dilakukan oleh staf yang saat itu bertugas."
 
-"Kamu udah selesai priksa semua area? Produk utama udah? Bahan mentah, bahan setengah jadi? Produk masak? Self life? " Tanya Divano seketika.
+    "Ibu Novy" "Ya, udah, kalau gitu saya balik dulu, ya,"
+    
+    "Ibu Novy" "Oh, iya, tadi ada laporan yang harus dikirim. Udah saya kerjakan, cuma pas mau dikirim, jaringan internetnya bermasalah. Nanti kalian coba kirim lagi ya."
 
-"Udah, Pak! Semua ketersediaan produk udah sesuai dengan yang ditulis di papan perencanaan produk,"seru Lia penuh semangat.
+    "Setelah itu, Ibu Novy segera meninggalkan restoran. Tanpa berlama-lama, Divano segera mengirimkan laporan yang dimaksud, dan berhasil. Lia sedang berdiri terpaku di depan pintu kantor."
 
-"Ya, udah. Kamu bantuin kasir aja. Belum ada laporan yang mau dikerjakan."
+    Roy "Kamu udah selesai priksa semua area? Produk utama udah? Bahan mentah, bahan setengah jadi? Produk masak? Self life? " 
+    
+    "Tanya Divano seketika."
 
-"Oke, Pak."
+    Paulin "Udah, Pak! Semua ketersediaan produk udah sesuai dengan yang ditulis di papan perencanaan produk,"
+    
+    "seru Lia penuh semangat."
 
-"Eh! Kalo gak kamu ke area dining aja. Liat-liat di sana. Ngecek toilet di lantai 2, area outdoor," lanjut Divano.
+    Roy "Ya, udah. Kamu bantuin kasir aja. Belum ada laporan yang mau dikerjakan."
 
-Lia pun mengiyakan dan segera beranjak ke lantai 2 untuk mengecek semua area, termasuk ke toilet. Ia mengecek setiap kran air, apakah rusak atau tidak. Ia juga mengecek setiap sudut, dan juga area outdoor seperti yang diperintahkan. Semua nampak bersih dan rapi.
+    Paulin "Oke, Pak."
 
-Pada saat sedang berada di area outdoor lantai 2, matanya tertuju pada sosok seorang perempuan yang menurutnya dekat dengan Divano, sedang menuju ke restoran dengan berjalan kaki. Yap! Perempuan cantik yang membuat Divano melepaskan senyuman mahalnya. Lia pun buru-buru turun ke lantai 1.
+    Roy "Eh! Kalo gak kamu ke area dining aja. Liat-liat di sana. Ngecek toilet di lantai 2, area outdoor," 
+    # lanjut Divano.
 
-Ia segera melesat masuk ke area kasir, dan menunggu. Diliriknya Divano yang masih berada di dalam kantor.
+    "Lia pun mengiyakan dan segera beranjak ke lantai 2 untuk mengecek semua area, termasuk ke toilet. Ia mengecek setiap kran air, apakah rusak atau tidak. Ia juga mengecek setiap sudut, dan juga area outdoor seperti yang diperintahkan. Semua nampak bersih dan rapi."
 
-Hanya berselang 2 menit, perempuan itu sudah berada di depan counter kasir.
+    "Pada saat sedang berada di area outdoor lantai 2, matanya tertuju pada sosok seorang perempuan yang menurutnya dekat dengan Divano, sedang menuju ke restoran dengan berjalan kaki. Yap! Perempuan cantik yang membuat Divano melepaskan senyuman mahalnya. Lia pun buru-buru turun ke lantai 1."
 
-Lia belum sempat melakukan prosedur menerima customer, saat perempuan itu menanyakan Divano.
+    "Ia segera melesat masuk ke area kasir, dan menunggu. Diliriknya Divano yang masih berada di dalam kantor."
 
-"Lagi di kantor. Mau dipanggilkan?" Tanya Lia ramah.
+    "Hanya berselang 2 menit, perempuan itu sudah berada di depan counter kasir."
 
-Di belakang Lia, nampak kasir lainnya yang saling bersenggolan sikut satu dengan lainnya.
+    "Lia belum sempat melakukan prosedur menerima customer, saat perempuan itu menanyakan Divano."
 
-"Oh, boleh. Bilang aja Mona nyariin,"jawab perempuan itu.
+    Paulin "Lagi di kantor. Mau dipanggilkan?" 
+    
+    "Tanya Lia ramah."
 
-Lia pun mengiyakan dan segera memangil Divano. Tanpa berlama-lama, Divano melesat menemui Mona.
+    "Di belakang Lia, nampak kasir lainnya yang saling bersenggolan sikut satu dengan lainnya."
 
-"Wah! Makin sering ke sini, ya? Padahal deket rumah sakit ada cabang kita yang satunya," sahut Divano.
+    Mona "Oh, boleh. Bilang aja Mona nyariin,"
+    # jawab perempuan itu.
 
-Mona tertawa lepas. "Pengen ngelihat muka jutek kamu, donk!"
+    "Lia pun mengiyakan dan segera memangil Divano. Tanpa berlama-lama, Divano melesat menemui Mona."
 
-Kasir-kasir berpandangan satu dengan lainnya.
+    Roy "Wah! Makin sering ke sini, ya? Padahal deket rumah sakit ada cabang kita yang satunya," 
+    # sahut Divano.
 
-"To the point banget," batin Lia.
+    "Mona tertawa lepas." 
+    
+    Mona "Pengen ngelihat muka jutek kamu, donk!"
 
-Seketika senyum terukir kembali di bibir Divano. Semua yang sedang menatap mereka terkesima dibuatnya.
+    "Kasir-kasir berpandangan satu dengan lainnya."
 
-"Kayaknya cuma aku aja yang bisa buat kamu senyum gini," lanjut Mona sambil menopangkan tangan ke dagunya, memandangi Divano lekat-lekat.
+    Pikir_Paulin "To the point banget," 
+    # batin Lia.
 
-"Ehm!"Divano entah mengapa nampak gugup. Ia menggaruk kepala yang tidak terasa gatal.
+    "Seketika senyum terukir kembali di bibir Divano. Semua yang sedang menatap mereka terkesima dibuatnya."
 
-Perempuan itu tertawa lepas lagi.
+    Mona "Kayaknya cuma aku aja yang bisa buat kamu senyum gini," 
 
-Wajah Lia nampak sedikit murung melihat pemandangan itu. Rupanya, memang hanya perempuan bernama Mona ini yang bisa membuat Divano tersenyum setulus itu, dan gugup.
+    "lanjut Mona sambil menopangkan tangan ke dagunya, memandangi Divano lekat-lekat."
 
-"Aku ke sini mau kasitau kamu sesuatu."Wajah Mona tiba-tiba berubah serius.
+    Roy "Ehm!"
 
-Divano pun menanggapi dengan serius.
+    "Divano entah mengapa nampak gugup. Ia menggaruk kepala yang tidak terasa gatal."
 
-"Tempat biasa, ya?" Sahut Mona seraya menuju ke kursi yang terletak di pojok ruangan.
+    "Perempuan itu tertawa lepas lagi."
 
-Divano pun mengiyakan dan segera mengikuti. Kali ini, ia tidak menyiapkan minuman apapun. Ia terlihat buru-buru menuju ke area dining.
+    "Wajah Lia nampak sedikit murung melihat pemandangan itu. Rupanya, memang hanya perempuan bernama Mona ini yang bisa membuat Divano tersenyum setulus itu, dan gugup."
 
-"Gila! Tuh cewek langsung nembak aja, ya!" Sahut Eny.
+    Mona "Aku ke sini mau kasitau kamu sesuatu."
+    
+    "Wajah Mona tiba-tiba berubah serius."
 
-"Itu cewek ngomong gitu, mau bilang ke kita kalau cuma dia yang bisa buat Pak Divano bahagia!" Timpal Inge.
+    "Divano pun menanggapi dengan serius."
 
-Lia menggelengkan kepalanya. "Gosip aja terus!"
+    Roy "Tempat biasa, ya?" 
+    
+    "Sahut Mona seraya menuju ke kursi yang terletak di pojok ruangan."
 
-Ia pun melangkah gontai masuk ke kantor, meninggalkan kasir-kasir yang memandanginya sambil bersenggolan siku.
+    "Divano pun mengiyakan dan segera mengikuti. Kali ini, ia tidak menyiapkan minuman apapun. Ia terlihat buru-buru menuju ke area dining."
 
-Lia terduduk di depan komputer. Matanya tertunduk.
+    Eny "Gila! Tuh cewek langsung nembak aja, ya!" 
+    # Sahut Eny.
 
-"Apa bener cuma cewek bernama Mona yang bisa buat Divano tersenyum?" Batin Lia.
+    Inge "Itu cewek ngomong gitu, mau bilang ke kita kalau cuma dia yang bisa buat Pak Divano bahagia!" 
+    # Timpal Inge.
 
-"Selama ini aku baper apaan, sih? Gaje banget! Perhatiannya itu cuma karena kita temen sekantor!"Lia kembali menyadarkan dirinya.
+    "Lia menggelengkan kepalanya." 
+    
+    Paulin "Gosip aja terus!"
 
-Tak terasa sudah 45 menit Lia mendekam di dalam kantor dengan berjuta pemikiran tentang Divano dan Mona.
+    "Ia pun melangkah gontai masuk ke kantor, meninggalkan kasir-kasir yang memandanginya sambil bersenggolan siku."
 
-"Mereka cocok banget, ya! Cakep dua-duanya!" Gumam Lia.
+    "Lia terduduk di depan komputer. Matanya tertunduk."
 
-"Siapa yang cocok banget?" Suara Divano membuat Lia tersentak kaget dan bangun dari duduknya.
+    Pikir_Paulin "Apa bener cuma cewek bernama Mona yang bisa buat Divano tersenyum?" 
+    # Batin Lia.
 
-"Ahh... Itu, anu," Lia merasa bibirnya tak mampu merangkai kata-kata.
+    Pikir_Paulin "Selama ini aku baper apaan, sih? Gaje banget! Perhatiannya itu cuma karena kita temen sekantor!"
+    # Lia kembali menyadarkan dirinya.
 
-Sebelah alis Divano terangkat, menunggu jawaban.
+    "Tak terasa sudah 45 menit Lia mendekam di dalam kantor dengan berjuta pemikiran tentang Divano dan Mona."
 
-"Anu... Aku, saya gak bermaksud..."
+    Paulin "Mereka cocok banget, ya! Cakep dua-duanya!" 
+    
+    "Gumam Lia."
 
-"Kalau yang kamu maksud aku dan Mona, gak. Kita gak cocok." Wajah Divano nampak datar.
+    Roy "Siapa yang cocok banget?" 
+    
+    "Suara Divano membuat Lia tersentak kaget dan bangun dari duduknya."
 
-Lia hanya tertunduk. Ia malu menatap wajah Divano.
+    Paulin "Ahh... Itu, anu," 
+    
+    "Lia merasa bibirnya tak mampu merangkai kata-kata."
 
-"Dia udah punya tunangan," Divano melanjutkan.
+    "Sebelah alis Divano terangkat, menunggu jawaban."
 
-Lia pelan-pelan mulai mengangkat wajahnya.
+    Paulin "Anu... Aku, saya gak bermaksud..."
 
-"Ok! Kalau gitu, kamu laper gak? Temenin aku makan!" Nada suara Divano terdengar seperti perintah. Waktu juga tidak terasa telah menunjukkan pukul 18.00.
+    Roy "Kalau yang kamu maksud aku dan Mona, gak. Kita gak cocok." 
+    
+    "Wajah Divano nampak datar."
 
-Lia menjawab cepat dan mengekor Divano menuju ke back up.
+    "Lia hanya tertunduk. Ia malu menatap wajah Divano."
 
-"Kita makannya di area dining aja, ya,"ujar Divano.
+    Roy "Dia udah punya tunangan," 
+    
+    "Divano melanjutkan."
 
-Lia pun mengiyakan.
+    "Lia pelan-pelan mulai mengangkat wajahnya."
 
-Sesaat kemudian, keduanya telah tiba di area dining. Mereka menempati pojok lain dari restoran.
+    Roy "Ok! Kalau gitu, kamu laper gak? Temenin aku makan!" 
+    
+    "Nada suara Divano terdengar seperti perintah. Waktu juga tidak terasa telah menunjukkan pukul 18.00."
 
-Divano nampak menikmati makanannya, begitu pula Lia. Sesekali ia melemparkan lirikan ke arah Divano.
+    "Lia menjawab cepat dan mengekor Divano menuju ke back up."
 
-"Mau nanya apa?" Tanya Divano seolah-olah mengetahui isi pikirannya Lia.
+    Roy "Kita makannya di area dining aja, ya,"
+    # ujar Divano.
 
-Lia tersedak.
+    "Lia pun mengiyakan."
+
+    "Sesaat kemudian, keduanya telah tiba di area dining. Mereka menempati pojok lain dari restoran."
+
+    "Divano nampak menikmati makanannya, begitu pula Lia. Sesekali ia melemparkan lirikan ke arah Divano."
+
+    Roy "Mau nanya apa?" 
+    
+    "Tanya Divano seolah-olah mengetahui isi pikirannya Lia."
+
+    "Lia tersedak."
 
 "Hati-hati, dong! Kek anak kecil aja,"ujar Divano seraya menyerahkan minuman pada Lia.
 
@@ -305,3 +353,10 @@ Lia terperangah.
 Wajahnya memerah.
 
 Ia merasa kali ini ia benar-benar jatuh hati pada Divano, dan segala hal sederhana yang dibuatnya.
+
+    nvl clear
+    menu:
+        "Next Chapter":
+            jump chapter6
+        "Main Menu":
+            jump start
