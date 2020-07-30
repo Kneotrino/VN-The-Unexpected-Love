@@ -164,195 +164,260 @@ label chapter5:
 
     "Lia tersedak."
 
-"Hati-hati, dong! Kek anak kecil aja,"ujar Divano seraya menyerahkan minuman pada Lia.
+    Roy "Hati-hati, dong! Kek anak kecil aja,"
+    
+    "ujar Divano seraya menyerahkan minuman pada Lia."
 
-"Maaf, Pak. Gak sengaja,"sahut Lia.
+    Paulin "Maaf, Pak. Gak sengaja,"
+    # sahut Lia.
 
-Divano hanya menikmati makanannya tanpa berkata apapun. Lia pun kembali makan dengan tenang.
+    "Divano hanya menikmati makanannya tanpa berkata apapun. Lia pun kembali makan dengan tenang."
 
-"Kalian jangan ngegosipin yang aneh-aneh," Divano membuka suara.
+    Roy "Kalian jangan ngegosipin yang aneh-aneh," 
+    
+    "Divano membuka suara."
 
-Lia memandangi wajah pria itu.
+    "Lia memandangi wajah pria itu."
 
-"Mona itu temen SMA aku. Kita juga kuliah di universitas yang sama,"lanjut Divano.
+    Roy "Mona itu temen SMA aku. Kita juga kuliah di universitas yang sama,"
+    
+    "lanjut Divano."
 
-"Oh, pantesan aja ibu Mona keknya dekat sama Bapak,"sahut Lia.
+    Paulin "Oh, pantesan aja ibu Mona keknya dekat sama Bapak,"
+    # sahut Lia.
 
-Divano memandangi Lia. "Gak usah manggil ibu Mona. Kamu malah lebih tua dari dia dan aku."
+    "Divano memandangi Lia." 
+    
+    Roy "Gak usah manggil ibu Mona. Kamu malah lebih tua dari dia dan aku."
 
-Lia terperangah. Selama ini ia tidak pernah mencari tahu mengenai data diri Divano di komputer. Baru hari ini ia menyadari usia mereka terpaut 2 tahun.Dan ia lebih tua dari mereka???
+    "Lia terperangah. Selama ini ia tidak pernah mencari tahu mengenai data diri Divano di komputer. Baru hari ini ia menyadari usia mereka terpaut 2 tahun.Dan ia lebih tua dari mereka???"
 
-Divano telah menyelesaikan makan malamnya. Namun, ia masih menunggu Lia selesai. Lia sedikit merasa tersanjung, Divano tidak meninggalkannya lebih dulu.
+    "Divano telah menyelesaikan makan malamnya. Namun, ia masih menunggu Lia selesai. Lia sedikit merasa tersanjung, Divano tidak meninggalkannya lebih dulu."
 
-"Abis ini, kamu ngecek lagi di lantai 2, ya. Aku ngecek di sini,"ujar Divano."Setelah itu, kamu bantuin kasir dan biar aku yang ngontrol bagian dapur."
+    Roy "Abis ini, kamu ngecek lagi di lantai 2, ya. Aku ngecek di sini,"
+    # ujar Divano.
+    Roy "Setelah itu, kamu bantuin kasir dan biar aku yang ngontrol bagian dapur."
 
-"Jam 10 nanti ngapain, Pak? Tanya Lia.
+    Paulin "Jam 10 nanti ngapain, Pak? Tanya Lia."
 
-"Nanti kita nutup lantai 2. Jadi, customer hanya diarahkan ke lantai 1. Setelah itu anak dining bakal bersihin lantai 2 duluan. Kamu ngecek nanti. Aku beresin yang bagian dalem"jelas Divano.
+    Roy "Nanti kita nutup lantai 2. Jadi, customer hanya diarahkan ke lantai 1. Setelah itu anak dining bakal bersihin lantai 2 duluan. Kamu ngecek nanti. Aku beresin yang bagian dalem"
+    # jelas Divano.
 
-Lia mengangguk mengerti.
+    "Lia mengangguk mengerti."
 
-Keduanya pun melanjutkan aktivitas mereka.
+    "Keduanya pun melanjutkan aktivitas mereka."
 
-*
+    "* time skip *"
 
-Tak terasa waktu sudah menunjukkan pukul 10 malam. Lia menuju ke lantai 2 restoran untuk mengecek karyawan yang bertugas membersihkan lantai 2.
+    "Tak terasa waktu sudah menunjukkan pukul 10 malam. Lia menuju ke lantai 2 restoran untuk mengecek karyawan yang bertugas membersihkan lantai 2."
 
-Saat ini yang sedang membersihkan lantai 2 adalah Gani, karyawan bertubuh tinggi, gemuk, berkulit putih.
+    "Saat ini yang sedang membersihkan lantai 2 adalah Gani, karyawan bertubuh tinggi, gemuk, berkulit putih."
 
-Lia menelusuri setiap sudut lantai 2 dan juga toilet yang nampak bersih dari sampah dan debu. Ia melihat Gani yang kini sedang mengepel lantai. Lia pun mendekatinya.
+    "Lia menelusuri setiap sudut lantai 2 dan juga toilet yang nampak bersih dari sampah dan debu. Ia melihat Gani yang kini sedang mengepel lantai. Lia pun mendekatinya."
 
-"Mau dibantuin?" Lia menawarkan bantuan dengan ramah.
+    Paulin "Mau dibantuin?" 
+    
+    "Lia menawarkan bantuan dengan ramah."
 
-"Gak usah, Bu! Ini udah tugas saya,"sahut Gani sambil terus mengepel.
+    Gany "Gak usah, Bu! Ini udah tugas saya,"
+    
+    "sahut Gani sambil terus mengepel."
 
-Lia pun mengangguk sambil menuju ke pojokan menunggu Gani selesai mengepel.
+    "Lia pun mengangguk sambil menuju ke pojokan menunggu Gani selesai mengepel."
 
-"Lampu-lampu ini, stop kontaknya dimana?" Tanya Lia sambil memandangi sekelilingnya. Tak nampak ada stop kontak.
+    Paulin "Lampu-lampu ini, stop kontaknya dimana?" 
+    
+    "Tanya Lia sambil memandangi sekelilingnya. Tak nampak ada stop kontak."
 
-"Itu di lantai 1, Bu! Di ruangan mesin yang di pojokan itu loh," sahut Gani.
+    Gany "Itu di lantai 1, Bu! Di ruangan mesin yang di pojokan itu loh,"
+    #  sahut Gani.
 
-Kini nampak Gani telah menyelesaikan pekerjaannya di lantai 2. Lia pun segera menuju ke lantai 1, seraya Gani melanjutkan mengepel tiap anak tangga yang dituruni. Di dapur, nampak Divano sedang mengisyaratkan ke karyawan untuk mengurangi porsi masakan, karena sebentar lagi restoran akan ditutup.
+    letter "Kini nampak Gani telah menyelesaikan pekerjaannya di lantai 2. Lia pun segera menuju ke lantai 1, seraya Gani melanjutkan mengepel tiap anak tangga yang dituruni. Di dapur, nampak Divano sedang mengisyaratkan ke karyawan untuk mengurangi porsi masakan, karena sebentar lagi restoran akan ditutup."
 
-Jam juga telah menunjukkan pukul 10.30 malam. Namun, karena masih ada beberapa customer di restoran, lampu area dining yang ditempati customer masih menyala. Semua lampu di lantai 2 dan sebagian lantai 1 telah dipadamkan.
+    letter "Jam juga telah menunjukkan pukul 10.30 malam. Namun, karena masih ada beberapa customer di restoran, lampu area dining yang ditempati customer masih menyala. Semua lampu di lantai 2 dan sebagian lantai 1 telah dipadamkan."
 
-Para karyawan mulai sibuk bersih-bersih restoran. Pintu restoran juga telah ditutup setelah semua customer keluar dari restoran.
+    letter "Para karyawan mulai sibuk bersih-bersih restoran. Pintu restoran juga telah ditutup setelah semua customer keluar dari restoran."
 
-Nampak Lia dan Divano sedang sibuk mengecek pekerjaan setiap karyawan. Sesekali mereka ikut membantu, sehingga pekerjaan cepat terselesaikan dan mereka dapat segera mengerjakan laporan harian.
+    letter "Nampak Lia dan Divano sedang sibuk mengecek pekerjaan setiap karyawan. Sesekali mereka ikut membantu, sehingga pekerjaan cepat terselesaikan dan mereka dapat segera mengerjakan laporan harian."
 
-"Ibu Lia. Ntar kita kerjain laporannya barengan, ya. Setelah semua kerjaan kelar,"ujar Divano.
+    Roy "Ibu Lia. Ntar kita kerjain laporannya barengan, ya. Setelah semua kerjaan kelar,"
+    # ujar Divano.
 
-Lia pun mengiyakan. Namun, ia berpikir sejenak.
+    "Lia pun mengiyakan. Namun, ia berpikir sejenak."
 
-"Kalau setelah semua kerjaan beres, artinya semua karyawan udah pulang? Artinya aku cuma berdua sama Divano?" Batinnya berteriak.
+    Pikir_Paulin "Kalau setelah semua kerjaan beres, artinya semua karyawan udah pulang? Artinya aku cuma berdua sama Divano?" 
 
-Wajahnya nampak merah merona. Belum kejadian, tapi Lia sudah membayangkan hal yang tidak-tidak.
+    "Batinnya berteriak."
 
-Pukul 11.30 malam...
+    "Wajahnya nampak merah merona. Belum kejadian, tapi Lia sudah membayangkan hal yang tidak-tidak."
 
-Semua karyawan telah menyelesaikan pekerjaannya dan segera berpamitan pulang, setelah mengisi absen pulang mereka masing-masing. Divano segera mematikan semua lampu restoran, menyisakan lampu kantor yang masih menyala.
+    "Pukul 11.30 malam..."
 
-"Nah! Sekarang saatnya ngerjain laporan harian!" Ajak Divano.
+    "Semua karyawan telah menyelesaikan pekerjaannya dan segera berpamitan pulang, setelah mengisi absen pulang mereka masing-masing. Divano segera mematikan semua lampu restoran, menyisakan lampu kantor yang masih menyala."
 
-Ia segera mengambil posisi di depan komputer, diikuti Lia di sebelahnya. Sedikit di belakangnya.
+    Roy "Nah! Sekarang saatnya ngerjain laporan harian!" 
+    
+    "Ajak Divano."
 
-Gugup.
+    "Ia segera mengambil posisi di depan komputer, diikuti Lia di sebelahnya. Sedikit di belakangnya."
 
-Dekat.
+    "Gugup."
 
-Sangat dekat hingga wangi parfume Divano begitu menusuk indra penciuman Lia.
+    "Dekat."
 
-"OMG!!!! Gak kuat!!! Sadar Lia, sadarrrr!!Dia lebih muda dari kamu!!! Dia cuma rekan kerja!!!Situasi terparah ini mah!!"
+    "Sangat dekat hingga wangi parfume Divano begitu menusuk indra penciuman Lia."
 
-Jantung Lia berdegup kencang. Bagaimana tidak? Mereka hanya berdua di dalam kantor, dengan sebuah penerangan di dalam kantor.
+    Pikir_Paulin "OMG!!!! Gak kuat!!! Sadar Lia, sadarrrr!!Dia lebih muda dari kamu!!! Dia cuma rekan kerja!!!Situasi terparah ini mah!!"
 
-Divano pun mulai menjelaskan mengenai pengisian laporan harian. Lia berusaha memfokuskan pikirannya.
+    "Jantung Lia berdegup kencang. Bagaimana tidak? Mereka hanya berdua di dalam kantor, dengan sebuah penerangan di dalam kantor."
 
-"Jadi, karena kita adalah restoran utama di Kota ini, semua laporan harian dari restoran lain di kota ini, dikirim ke sini via sms."
+    "Divano pun mulai menjelaskan mengenai pengisian laporan harian. Lia berusaha memfokuskan pikirannya."
 
-Divano menjelaskan sambil menunjukkan rentetan sms dari keempat cabang lainnya. "Nanti, laporan itu diisi di file ini, lalu dikirim ke area manager dan kantor pusat. Untuk laporan sales restoran kita, cukup dikirim via sms ke nomornya Ibu Novy dan area manager."
+    Roy "Jadi, karena kita adalah restoran utama di Kota ini, semua laporan harian dari restoran lain di kota ini, dikirim ke sini via sms."
 
-Lia mengangguk mengerti. Divano pun mengirim laporan yang dimaksud.
+    "Divano menjelaskan sambil menunjukkan rentetan sms dari keempat cabang lainnya." 
+    
+    Roy "Nanti, laporan itu diisi di file ini, lalu dikirim ke area manager dan kantor pusat. Untuk laporan sales restoran kita, cukup dikirim via sms ke nomornya Ibu Novy dan area manager."
 
-Berhasil.
+    "Lia mengangguk mengerti. Divano pun mengirim laporan yang dimaksud."
 
-"Nah! Sudah selesai!" Seru Divano."Sekarang, saatnya pulang!"
+    "Berhasil."
 
-Mereka berdua pun segera beranjak dari duduknya. Divano segera mematikan lampu kantor dan membuka handphone-nya untuk menerangi langkah mereka. Lia pun mengikuti tindakan Divano.
+    Roy "Nah! Sudah selesai!" 
+    # Seru Divano.    
+    "Sekarang, saatnya pulang!"
 
-"Kamu gak takut gelap kan?" Tanya Divano.
+    "Mereka berdua pun segera beranjak dari duduknya. Divano segera mematikan lampu kantor dan membuka handphone-nya untuk menerangi langkah mereka. Lia pun mengikuti tindakan Divano."
 
-"Gak."
+    Roy "Kamu gak takut gelap kan?" 
+    # Tanya Divano.
 
-"Iya, soalnya... Ada gosip yang bilang, kalau gelap begini... Biasanya ada yang muncul, loh!"
+    Paulin "Gak."
 
-Divano belum mengetahui bahwa Lia adalah seorang perempuan pemberani, yang tidak takut apapun, terlebih hantu.
+    Roy "Iya, soalnya... Ada gosip yang bilang, kalau gelap begini... Biasanya ada yang muncul, loh!"
 
-Lia tertawa lepas. Suaranya menggema di seisi ruangan. Divano bergidik.
+    "Divano belum mengetahui bahwa Lia adalah seorang perempuan pemberani, yang tidak takut apapun, terlebih hantu."
 
-"Kok nyeremin, ya?" Ujar Divano.
+    "Lia tertawa lepas. Suaranya menggema di seisi ruangan. Divano bergidik."
 
-"Lagian, kamu mau nakutin aku? Aku mah gak takut, kali!" Lia masih terkekeh.
+    Roy "Kok nyeremin, ya?" 
+    # Ujar Divano.
 
-Mereka pun segera mengeluarkan kunci loker, dan mengambil tas yang diletakkan di loker. Sesaat kemudian, mereka telah berada di luar restoran. Suasana di luar terlihat sangat sepi.
+    Paulin "Lagian, kamu mau nakutin aku? Aku mah gak takut, kali!" 
+    # Lia masih terkekeh.
 
-Divano segera mengecek semua pintu di restoran yang telah terkunci rapat.
+    "Mereka pun segera mengeluarkan kunci loker, dan mengambil tas yang diletakkan di loker. Sesaat kemudian, mereka telah berada di luar restoran. Suasana di luar terlihat sangat sepi."
 
-"Oke, deh! Semuanya udah beres!" Ujar Divano pada Lia yang sedang terpaku memandangi langit penuh bintang.
+    "Divano segera mengecek semua pintu di restoran yang telah terkunci rapat."
 
-Divano pun ikut memandangi langit.
+    Roy "Oke, deh! Semuanya udah beres!" 
+    
+    "Ujar Divano pada Lia yang sedang terpaku memandangi langit penuh bintang."
 
-"Kamu suka liatin langit, ya?" Tanya Divano.
+    "Divano pun ikut memandangi langit."
 
-"Iya. Indah banget kan?" Jawab Lia menampilkan senyumannya.
+    Roy "Kamu suka liatin langit, ya?" 
+    # Tanya Divano.
 
-Entah kenapa, senyuman itu menancap di hati Divano untuk sesaat.
+    Paulin "Iya. Indah banget kan?" 
+    
+    "Jawab Lia menampilkan senyumannya."
 
-"Ehm... Masih mau liatin langit? Atau aku anterin pulang?" Divano melanjutkan.
+    "Entah kenapa, senyuman itu menancap di hati Divano untuk sesaat."
 
-"Eh... Boleh,"jawab Lia gugup.
+    Roy "Ehm... Masih mau liatin langit? Atau aku anterin pulang?" 
+    
+    "Divano melanjutkan."
 
-Keduanya pun segera beranjak ke motor bebek yang diparkir di halaman belakang.
+    Paulin "Eh... Boleh,"
+    
+    "jawab Lia gugup."
 
-"Nih, helm!" Ujar Divano seraya memberikan sebuah helm biru muda pada Lia.
+    "Keduanya pun segera beranjak ke motor bebek yang diparkir di halaman belakang."
 
-Lia menerimanya dengan takjub. Biru muda adalah warna kesukaannya.
+    Roy "Nih, helm!" 
+    
+    "Ujar Divano seraya memberikan sebuah helm biru muda pada Lia."
 
-"Bisa pas banget, ya!"  Batin Lia.
+    "Lia menerimanya dengan takjub. Biru muda adalah warna kesukaannya."
 
-Lia pun memakai helm itu dengan senyum malu-malu. Ia segera menumpangi motor milik Divano.
+    Pikir_Paulin "Bisa pas banget, ya!"  
+    # Batin Lia.
 
-Keduanya mulai menyusuri jalanan yang nampak sepi.
+    "Lia pun memakai helm itu dengan senyum malu-malu. Ia segera menumpangi motor milik Divano."
 
-"Biru muda ini warna kesukaan aku loh!" Ujar Lia seketika.
+    "Keduanya mulai menyusuri jalanan yang nampak sepi."
 
-"Aku tahu,"jawab Divano.
+    Paulin "Biru muda ini warna kesukaan aku loh!" 
+    # Ujar Lia seketika.
 
-Mata Lia terbelalak.
+    Roy "Aku tahu,"
+    
+    "jawab Divano."
 
-"Kan di data kamu ada. Warna kesukaan, biru muda,"Divano melanjutkan.
+    "Mata Lia terbelalak."
 
-Lia tersenyum malu-malu."Gila aje!Aku udah baper parah!" Batin Lia.
+    Roy "Kan di data kamu ada. Warna kesukaan, biru muda,"
+    
+    "Divano melanjutkan."
 
-"Makanya aku sengaja beli warna itu, untuk kamu pakek kalo aku anterin pulang,"sambung Divano.
+    "Lia tersenyum malu-malu."
+    
+    Pikir_Paulin "Gila aje!Aku udah baper parah!" 
+    # Batin Lia.
 
-Kata-kata Divano barusan membuat wajah Lia merah padam karena malu. Jantungnya berdegup kencang. Rasanya ia ingin berteriak kegirangan.
+    Roy "Makanya aku sengaja beli warna itu, untuk kamu pakek kalo aku anterin pulang,"
+    # sambung Divano.
 
-"Ya Tuhan, bolehkah saat ini aku merasa baper? Bolehkah saat ini aku labil untuk sesaat? Kata-kata sederhananya benar-benar bisa membuatku merasa sespesial ini," batin Lia seakan berteriak.
+    "Kata-kata Divano barusan membuat wajah Lia merah padam karena malu. Jantungnya berdegup kencang. Rasanya ia ingin berteriak kegirangan."
 
-Lia terdiam.
+    Pikir_Paulin "Ya Tuhan, bolehkah saat ini aku merasa baper? Bolehkah saat ini aku labil untuk sesaat? Kata-kata sederhananya benar-benar bisa membuatku merasa sespesial ini," 
+    "batin Lia seakan berteriak."
 
-"Kamu udah tidur?" Tanya Divano.
+    "Lia terdiam."
 
-"Eh, gak. Maaf,"sahut Lia.
+    Roy "Kamu udah tidur?" 
+    # Tanya Divano.
 
-"Mulai minggu depan, jadwal kita udah beda, ya! Paling sehari dua hari aja kita bisa sama-sama,"ujar Divano.
+    Paulin "Eh, gak. Maaf,"
+    # sahut Lia.
 
-"Oh, iya,"sahut Lia pelan.
+    Roy "Mulai minggu depan, jadwal kita udah beda, ya! Paling sehari dua hari aja kita bisa sama-sama,"
+    # ujar Divano.
 
-Raut wajahnya yang disinari cahaya bulan nampak lesu.
+    Paulin "Oh, iya,"
+    # sahut Lia pelan.
 
-Sesaat kemudian, mereka telah tiba di depan rumah Lia. Lia segera melepaskan helm yang dipakainya.
+    "Raut wajahnya yang disinari cahaya bulan nampak lesu."
 
-"Makasih, ya, Vano," ujar Lia seraya menyerahkan helm tersebut.
+    "Sesaat kemudian, mereka telah tiba di depan rumah Lia. Lia segera melepaskan helm yang dipakainya."
 
-"Yap! Sama-sama," jawab Divano.
+    Paulin "Makasih, ya, Vano," 
+    "ujar Lia seraya menyerahkan helm tersebut."
 
-Diam sejenak.
+    Roy "Yap! Sama-sama," 
+    # jawab Divano.
 
-"Ehm, kalo gitu, aku ke dalam dulu, ya,"ujar Lia.
+    "Diam sejenak."
 
-"Oh, oke!"sahut Divano sambil menggaruk helmnya, yang pastinya tidak gatal.
+    Paulin "Ehm, kalo gitu, aku ke dalam dulu, ya,"
+    # ujar Lia.
 
-"Hati-hati di jalan,"lanjut Lia.
+    Roy "Oh, oke!"
+    
+    "sahut Divano sambil menggaruk helmnya, yang pastinya tidak gatal."
 
-Divano mengangguk seraya tersenyum. Yap! Senyuman termanis yang pernah dilihat Lia. Meskipun sekelilingnya nampak hanya diterangi cahaya lampu jalan, namun senyum Divano seolah khusus disinari oleh cahaya bulan.
+    Paulin "Hati-hati di jalan,"
+    
+    "lanjut Lia."
 
-Lia terperangah.
+    "Divano mengangguk seraya tersenyum. Yap! Senyuman termanis yang pernah dilihat Lia. Meskipun sekelilingnya nampak hanya diterangi cahaya lampu jalan, namun senyum Divano seolah khusus disinari oleh cahaya bulan."
 
-Wajahnya memerah.
+    "Lia terperangah."
 
-Ia merasa kali ini ia benar-benar jatuh hati pada Divano, dan segala hal sederhana yang dibuatnya.
+    "Wajahnya memerah."
+
+    "Ia merasa kali ini ia benar-benar jatuh hati pada Divano, dan segala hal sederhana yang dibuatnya."
 
     nvl clear
     menu:

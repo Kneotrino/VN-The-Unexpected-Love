@@ -332,4 +332,4 @@ label chapter4:
     "Lia segera mengambil langkah seribu meninggalkan Pak Pa\'a yang masih tertawa."
 
     nvl clear
-    jump chapter4
+    jump chapter5
